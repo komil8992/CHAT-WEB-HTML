@@ -1,1 +1,2 @@
-["new Version Available","ver","1.2.0","Change Log","add cinama add Tab View add tecno of Auto Play URLs add Reply msg"]
+["new Version Available","ver","1.2","Change Log","add cinama add Tab View add tecno of Auto Play URLs add Reply msg"]
+["Ver","1.1"]
